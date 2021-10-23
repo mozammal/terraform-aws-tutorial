@@ -4,7 +4,9 @@
 ## Running Locally
 The only dependencies for running this example are:
 
-- [Docker Compose][https://www.docker.com/)
+- [Terraform][https://www.terraform.io/)
+- [httpie](https://github.com/httpie/httpie)
+
 
 
 ```sh
