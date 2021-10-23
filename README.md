@@ -4,7 +4,7 @@
 ## Running Locally
 The only dependencies for running this example are:
 
-- [Terraform][https://www.terraform.io/)
+- [Terraform](https://www.terraform.io/)
 - [httpie](https://github.com/httpie/httpie)
 
 
