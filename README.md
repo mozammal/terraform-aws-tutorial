@@ -5,6 +5,7 @@
 The only dependencies for running this example are:
 
 - [Terraform][https://www.terraform.io/)
+- [Docker Compose][https://www.docker.com/)
 
 ```sh
 $ export/SET AWS_ACCESS_KEY_ID=(your access key id)
